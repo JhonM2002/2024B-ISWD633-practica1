@@ -24,12 +24,15 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
+
 ![image](https://github.com/user-attachments/assets/8f356e32-aa80-4b09-8238-0cb32be5dfbb)
 
 **¿Qué es nginx**
+
 Nginx es un servidor web de código abierto que también puede funcionar como servidor proxy inverso, balanceador de carga, y caché HTTP.
 
 Descargar la imagen  **nginx** en la versión **alpine**
+
 ![image](https://github.com/user-attachments/assets/984433e2-ef22-4eb3-8850-7fa280cd1945)
 
 ### Listar imágenes
@@ -39,6 +42,7 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+
 ![image](https://github.com/user-attachments/assets/90a5140b-cfdb-4cb5-a6eb-1449068b73f3)
 
 **Identificadores**
