@@ -58,6 +58,7 @@ docker inspect <nombre imagen>:<tag>
 ```
 
 Inspeccionar la imagen hello-world 
+
 ![image](https://github.com/user-attachments/assets/3462d1a2-bd41-4c93-8685-5d5ecbd8ba5b)
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
@@ -77,6 +78,7 @@ docker rmi <nombre imagen>:<tag>
 ```
 
 Eliminar la imagen hello-world 
+
 ![image](https://github.com/user-attachments/assets/7e9cd68e-b199-48d9-ae04-db3f9ac99261)
 
 -f: Es la opción para forzar la eliminación de la imagen incluso si hay contenedores en ejecución que utilizan esa imagen.
